@@ -627,6 +627,7 @@
 
 #define PUYA_ID			0x85	/* Puya Semiconductor */
 #define PUYA_PY25Q40HB		0x2013
+#define PUYA_PY25Q16HB		0x2015
 
 /*
  * The Sanyo chip found so far uses SPI, first byte is manufacturer code,
